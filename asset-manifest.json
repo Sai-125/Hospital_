@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sai-125.io/Salute_/static/css/main.707fd392.css",
+    "main.js": "/Sai-125.io/Salute_/static/js/main.68c82983.js",
+    "static/js/453.005a2713.chunk.js": "/Sai-125.io/Salute_/static/js/453.005a2713.chunk.js",
+    "static/media/team1.png": "/Sai-125.io/Salute_/static/media/team1.f2dbd6b4bcb3a9f15b9b.png",
+    "static/media/young-handsome-physician-medical-robe-with-stethoscope_1303-17820.jpg": "/Sai-125.io/Salute_/static/media/young-handsome-physician-medical-robe-with-stethoscope_1303-17820.95c8c359413c9fd11c94.jpg",
+    "static/media/slick.svg": "/Sai-125.io/Salute_/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Sai-125.io/Salute_/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Sai-125.io/Salute_/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Sai-125.io/Salute_/index.html",
+    "static/media/slick.woff": "/Sai-125.io/Salute_/static/media/slick.295183786cd8a1389865.woff",
+    "main.707fd392.css.map": "/Sai-125.io/Salute_/static/css/main.707fd392.css.map",
+    "main.68c82983.js.map": "/Sai-125.io/Salute_/static/js/main.68c82983.js.map",
+    "453.005a2713.chunk.js.map": "/Sai-125.io/Salute_/static/js/453.005a2713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707fd392.css",
+    "static/js/main.68c82983.js"
+  ]
+}
